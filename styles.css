@@ -1,0 +1,14 @@
+/* styles.css */
+table {
+    width: 100%;
+    border-collapse: separate;
+}
+
+th, td {
+    border: 2px solid lightgray;
+    padding: 5px;
+}
+
+th {
+    background-color: lightgray;
+}
