@@ -13,7 +13,7 @@
 *
 * Solution details: The code in this source file is self-explanatory with
 * the comments written against almost every important step. However, please
-* take a look at the ReadMe.docx provided with this code file for details
+* take a look at the README file provided with this code file for details
 * about the approach, platform used and the instructions to run it.
 *
 * Author : Dilpreet Singh
