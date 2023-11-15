@@ -55,7 +55,13 @@ This C++ program is designed to take an input XML file as parameter and generate
 
 •	Sorting of CD elements is not performed.
 
-•	Error handling is implemented for file opening and invalid command-line arguments.
+**Known Limitations**
+
+•	The code assumes that the provided XML file is pre-validated and doesn't perform checks such as ensuring that all corresponding tags are properly opened and closed.
+
+•	The implementation relies on the assumption that CD elements are individually present on separate lines.
+
+•	To incorporate additional functionalities into the application, it could be useful to utilize libraries like pugixml.
 
 
 Kindly feel free to reach out to me at dilpreetsingh95@gmail.com for any questions or comments.
